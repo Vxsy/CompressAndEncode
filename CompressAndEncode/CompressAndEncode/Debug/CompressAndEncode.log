@@ -1,0 +1,6 @@
+﻿  CompressAndEncode.cpp
+D:\repos\CompressAndEncode\CompressAndEncode\CompressAndEncode.cpp(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\repos\CompressAndEncode\CompressAndEncode\CompressAndEncode.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\repos\CompressAndEncode\CompressAndEncode\CompressAndEncode.cpp(29,9): warning C4101: 'fileBufferSize': unreferenced local variable
+D:\repos\CompressAndEncode\CompressAndEncode\CompressAndEncode.cpp(115,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CompressAndEncode.vcxproj -> D:\repos\CompressAndEncode\Debug\CompressAndEncode.exe
